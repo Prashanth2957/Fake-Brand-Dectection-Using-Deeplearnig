@@ -4,4 +4,4 @@ torch
 torchvision
 pillow
 opencv-python-headless
-numpy
+numpy<2
